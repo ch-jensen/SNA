@@ -1,2 +1,3 @@
 # SNA
-Social Network Analysis of Biblical law (Leviticus 17-26 as a case study)
+
+A repository of notebooks and dataset related to my ongoing research on social networks in Biblical law, in particular Leviticus 17-26, also known as the Holiness Code.
