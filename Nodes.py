@@ -3,7 +3,7 @@ from collections import defaultdict
 import pandas as pd
 from anytree import Node, RenderTree, findall, findall_by_attr, find_by_attr
 from tf.app import use
-A = use('bhsa', hoist=globals(), mod='ch-jensen/participants/actor/tf', silent=True)
+A = use('etcbc/bhsa', version='c', hoist=globals(), mod='ch-jensen/participants/actor/tf', silent=True)
 
 class GenerateNodes:
 
